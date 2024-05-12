@@ -516,7 +516,7 @@ header
 }
 
 .header-area .main-nav .nav li a:hover {
-  color:  #ae0e12
+  color: #ae0e12;
 }
 
 .header-area .main-nav .menu-trigger {
@@ -746,7 +746,6 @@ welcome
   position: relative;
 }
 
-
 @media (min-width: 991px) {
   .welcome-area .header-text {
     top: 4% !important;
@@ -767,7 +766,6 @@ welcome
     margin-bottom: 20px;
   }
 }
-
 
 @media (max-width: 991px) {
   .welcome-area .header-text {
@@ -838,8 +836,7 @@ features
 }
 
 .features-small-item:hover .icon {
-  background-color: #ae0e12
-  ;
+  background-color: #ae0e12;
 }
 
 .features-small-item .icon {
@@ -994,6 +991,7 @@ parallax & home seperator
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   text-align: center;
+  height: 200px;
 }
 
 .mini .mini-content .mini-box:hover {
@@ -1421,7 +1419,7 @@ blog
 }
 
 .blog-post-thumb h3 a:hover {
-  color: #ae0e12  ;
+  color: #ae0e12;
 }
 
 .blog-post-thumb .text {
