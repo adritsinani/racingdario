@@ -899,7 +899,7 @@ features
 @media (max-width: 991px) {
   .home-feature {
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 30px;
     margin-top: 0px;
   }
 }
